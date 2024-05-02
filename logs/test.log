@@ -1,0 +1,34 @@
+15:27:25.561 [main] INFO  tests.UserTest - *************Creating User ***********
+15:27:29.767 [main] INFO  tests.UserTest - *************user is created ***********
+15:27:29.782 [main] INFO  tests.UserTest - *************Read User ***********
+15:27:31.533 [main] INFO  tests.UserTest - *************Update Users ***********
+15:27:35.197 [main] INFO  tests.UserTest - *************Delete Users ***********
+15:30:44.823 [main] INFO  tests.UserTest - *************Creating User ***********
+15:30:48.652 [main] INFO  tests.UserTest - *************user is created ***********
+15:30:48.668 [main] INFO  tests.UserTest - *************Read User ***********
+15:30:50.490 [main] INFO  tests.UserTest - *************Update Users ***********
+15:30:54.583 [main] INFO  tests.UserTest - *************Delete Users ***********
+15:31:55.950 [main] INFO  tests.UserTest - *************Creating User ***********
+15:31:55.953 [main] DEBUG tests.UserTest - debugging.........................
+15:31:59.787 [main] INFO  tests.UserTest - *************user is created ***********
+15:31:59.799 [main] INFO  tests.UserTest - *************Read User ***********
+15:32:01.876 [main] INFO  tests.UserTest - *************Update Users ***********
+15:32:05.958 [main] INFO  tests.UserTest - *************Delete Users ***********
+20:00:52.686 [main] INFO  tests.UserTest - *************Creating User ***********
+20:00:52.691 [main] DEBUG tests.UserTest - debugging.........................
+20:00:56.723 [main] INFO  tests.UserTest - *************user is created ***********
+20:00:56.737 [main] INFO  tests.UserTest - *************Read User ***********
+20:00:58.489 [main] INFO  tests.UserTest - *************Update Users ***********
+20:01:02.070 [main] INFO  tests.UserTest - *************Delete Users ***********
+21:20:19.973 [main] INFO  tests.UserTest - *************Creating User ***********
+21:20:19.976 [main] DEBUG tests.UserTest - debugging.........................
+21:20:23.582 [main] INFO  tests.UserTest - *************user is created ***********
+21:20:23.596 [main] INFO  tests.UserTest - *************Read User ***********
+21:20:25.250 [main] INFO  tests.UserTest - *************Update Users ***********
+21:20:28.730 [main] INFO  tests.UserTest - *************Delete Users ***********
+22:07:02.298 [main] INFO  tests.UserTest - *************Creating User ***********
+22:07:02.304 [main] DEBUG tests.UserTest - debugging.........................
+22:07:06.409 [main] INFO  tests.UserTest - *************user is created ***********
+22:07:06.427 [main] INFO  tests.UserTest - *************Read User ***********
+22:07:08.271 [main] INFO  tests.UserTest - *************Update Users ***********
+22:07:11.855 [main] INFO  tests.UserTest - *************Delete Users ***********
